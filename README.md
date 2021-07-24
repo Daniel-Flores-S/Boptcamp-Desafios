@@ -3,7 +3,6 @@
 o melhor que o framework Spring Boot pode oferecer na hora de criar API's Rest.</p>
 
 <br>
---------------------------------------------------------------------------------------------
 <br>
 
 # Santander Bootcamp | Fullstack Developer
